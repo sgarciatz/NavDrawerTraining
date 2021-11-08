@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NavDrawerTraining</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_categorias">Mis Categorias</string>
+    <string name="menu_favoritos">Mis Favoritos</string>
+
+    <string name="menu_busquedaAvanzada">Búsqueda Avanzada</string>
+    <string name="menu_reservas">Mis Reservas</string>
+    <string name="recomendaciones">Recomendaciones</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet nisl id quam aliquam porttitor a at ligula. Nunc sed turpis eu lectus porttitor laoreet id quis tortor. Aenean porta dui lectus, fermentum tempus sapien scelerisque ut. Praesent non odio velit. Phasellus condimentum nisl quis diam condimentum, ac faucibus quam suscipit. Donec at mi ut ante ultricies ornare venenatis quis ipsum. Nam placerat finibus justo, eu suscipit tellus. Praesent sollicitudin libero leo, malesuada pretium sem vulputate id.  Vestibulum eu interdum enim, ac accumsan elit. Sed rhoncus felis a felis bibendum, ut auctor lectus feugiat. Mauris quis lorem sit amet arcu suscipit semper at nec dolor. Suspendisse gravida risus mauris, ac suscipit diam imperdiet a. Sed elit tellus, hendrerit ac volutpat eu, viverra eu dui.</string>
+    <string name="valorar">Valorar</string>
+    <string name="comentar">Comentar</string>
+    <string name="descripcion_local">Descripción</string>
+</resources>
